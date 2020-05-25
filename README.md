@@ -1,6 +1,6 @@
 # Professor ZAP - 2020
 ### Ime Learning/ Educação
-![](docs/logo.jpg)
+![](logo.jpg)
 #### Apresentação 
 
 No Brasil, muitos jovens não possuem acesso a um computador e nem a uma rede Wi-Fi em suas moradias. Ainda assim, muitos possuem acesso a um aparelho celular com conexão com à internet, mesmo que essa seja de baixa qualidade, através das redes móveis de telefonia. Segundo o jornal O Globo, são cerca de 32 milhões de estudantes com acesso à internet em nosso país.
