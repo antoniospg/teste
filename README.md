@@ -15,6 +15,8 @@ Nesse cenário, surge o desafio: o jovem não consegue manter um estudo orientad
 Tendo como objetivo ajudar os jovens estudantes brasileiros nesse desafio educacional e reconhecendo suas limitações, a nossa equipe desenvolveu o seguinte projeto: um chatbot para celular, que distribui conteúdo educacional personalizado, com envio de arquivos reduzidos, através de uma plataforma já muito popular - o Whatsapp. 
 Chamamos esse projeto de Professor ZAP.acesso à internet.
 
+![](sample.png)
+
 #### Informações adicionais 
 
 De forma prática, o nosso projeto tem o seguinte funcionamento. Primeiro, o usuário entra em contato com o Professor ZAP por mensagem. Na sequência, acontece um diálogo de decisão: o usuário deve responder as mensagens automaticamente enviadas. É nisso que consiste um chatbot: uma forma automatizada de trocar mensagens com um usuário.
